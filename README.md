@@ -14,9 +14,12 @@ The model predicts the price of residents. <br />
 ## **3. Input / Output**
 ![WhatsApp Image 2022-12-19 at 22 36 40](https://user-images.githubusercontent.com/53116545/208480863-b5197ffc-afbd-4296-bf1e-c2575c24a134.jpg)
 
-## **4. Live link**
+## **4. Data Analysis**
+![image](https://user-images.githubusercontent.com/53116545/208482930-994348bd-8426-462e-bcab-b158371d84ac.png)
+
+## **5. Live link**
 Link: https://pricepredictordubai-pagarwal.netlify.app/
 
 
-## **5. Screenshot of the Interface**
+## **6. Screenshot of the Interface**
 <img width="953" alt="image" src="https://user-images.githubusercontent.com/53116545/208480659-67218f3a-d1f8-4201-800e-455b9948e0da.png">
