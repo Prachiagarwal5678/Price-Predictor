@@ -6,10 +6,10 @@ A machine learning model to predict the sale listing price of residential units 
 
 
 ## **2. Description**
-The model predicts the price of residents. 
-Data collection - bayut.com
-Data contains: area,no.of bathrooms, bedroom, location 
-Best Model: Random Forest
+The model predicts the price of residents. <br /> 
+**Data collection:** bayut.com<br /> 
+**Data contains:** area,no.of bathrooms, bedroom, location <br /> 
+**Best Model:** Random Forest<br /> 
 
 ## **3. Input / Output**
 ![WhatsApp Image 2022-12-19 at 22 36 40](https://user-images.githubusercontent.com/53116545/208480863-b5197ffc-afbd-4296-bf1e-c2575c24a134.jpg)
